@@ -71,7 +71,7 @@ Follow these steps to run the project on your local machine:
 
 8. To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
 
-9. Refer to my Tableau dashboard for visualized data.
+9. Refer to my [Tableau dashboard](https://public.tableau.com/app/profile/lavin.lalchandani/viz/Eurovs_WorldEvents/Dashboard1) for visualized data.
 
 
 ### Features:
