@@ -75,7 +75,7 @@ Follow these steps to run the project on your local machine:
 
 
 ### Features:
-Read in data two or more csv files.
-Clean data and perform a pandas merge with two or more datasets.
-Make a Tableau dashboard to display data.
-Utilize a virtual enviroment.
+1. Read in data two or more csv files.
+2. Clean data and perform a pandas merge with two or more datasets.
+3. Make a Tableau dashboard to display data.
+4. Utilize a virtual enviroment.
