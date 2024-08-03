@@ -54,17 +54,17 @@ Follow these steps to run the project on your local machine:
 
     Activate the virtual environment by using the following command:
 
-        On Windows:
+    On Windows:
 
-            ```
-            .\venv\Scripts\activate
-            ```
+    ```
+    .\venv\Scripts\activate
+    ```
 
-        On macOS and Linux:
+    On macOS and Linux:
 
-            ```
-            source venv/bin/activate
-            ```
+    ```
+    source venv/bin/activate
+    ```
 
 5. Refer to and install the packages listed in the requirements.txt file. To do so, run the following command:
     ```
