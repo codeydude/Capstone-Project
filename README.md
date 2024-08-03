@@ -53,14 +53,14 @@ Follow these steps to run the project on your local machine:
 4. **Activate the virtual environment**
 
     Activate the virtual environment by using the following command:
-    
-        - On Windows:
+
+        On Windows:
 
             ```
             .\venv\Scripts\activate
             ```
 
-        - On macOS and Linux:
+        On macOS and Linux:
 
             ```
             source venv/bin/activate
