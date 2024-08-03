@@ -3,7 +3,7 @@
 ## About
 Greetings! This data analysis project will look at the Euro/USD exchange rate and find evidence to correlate how it can be affected by world events that stem sometimes from here at home in the United States or other nations. There will be instances where the events might make you think that the exchange should be dramatic but the data will say otherwise! The data being used primarily is the exchange rate of the Euro vs. 1 US Dollar between the dates of 11/30/2003 and 7/29/2022. The other data set with important world events is a csv I created by mapping out dates for important US and World Events with the region where the origination of those very events occur.
 
-This Jupyter notebook takes the csv files, cleans and merges them, then exports them as csv files in the Results folder to be used for visualization in Tableau.
+The Jupyter notebook takes the csv files, cleans and merges them, then exports them as csv files in the Results folder to be used for visualization in Tableau.
 
 ## Data Source
 CSVs:
@@ -85,9 +85,10 @@ Follow these steps to run the project on your local machine:
 
 ### Features:
 1. Read in data two or more csv files.
-2. Clean data and perform a pandas merge with two or more datasets.
-3. Make a Tableau dashboard to display data.
+2. Clean data and perform a pandas merge with two datasets.
+3. Make a Tableau dashboard to visualize data.
 4. Utilize a virtual enviroment.
+5. Annotate code with markdown cells with clear comments in Jupyter Notebook.
 
 ## Summary of Findings
 The Euro when compared to the US Dollar looks to be a steady contender until the 2008s Great Recession and the subsequent US Housing Market Crash a couple weeks later where it nosedived almost 11% from €1.2297 to €1.4393 from the beginning of that year to September of that year. It did, however, recover 2 months later on 11/04/2008 on the day of the US Presidential Election, which saw Barack Hussein Obama as the winner and President Elect. 2 of these 3 important events mentioned have origins primarily from the United States with the Recession also mostly originating from the failed banks in America and creating a domino effect with failed banks around the world that snowballed into the Great Recession. These events point to the fact that the US based events do definitely affect the value and the buying power of the Euro currency.
